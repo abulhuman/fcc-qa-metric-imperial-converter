@@ -1,6 +1,7 @@
-entrypoint = "index.js"
+entrypoint = "server.js"
 
 hidden = [".config", "package-lock.json"]
+run = "npm run test:watch"
 
 [interpreter]
 command = [

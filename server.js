@@ -26,7 +26,7 @@ app.route('/')
   });
 
 //For FCC testing purposes
-fccTestingRoutes(app);
+// fccTestingRoutes(app);
 
 //Routing for API 
 apiRoutes(app);  
